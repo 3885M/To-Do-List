@@ -85,6 +85,6 @@ The `todoApp` is a minimal **React To-Do List application** with core functional
 
 🚀 **Start contributing or modify the project to fit your needs!**  
 
-🔗 **GitHub Repository:** [todoApp](https://github.com/3885M/)
+🔗 **GitHub Repository:** [todoApp](https://github.com/3885M/To-Do-List)
 
 
